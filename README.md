@@ -65,7 +65,9 @@ The analysis addresses the following key performance indicators and business que
 
 ## Dashboard Project Insight
 
-Dashboard Link:file:///C:/Users/ASUS/AppData/Local/Temp/Power%20BI%20Desktop/print-job-de50d5fe-2aef-4a92-ae40-a3fd9cece4ae/Vendor%20Performance%20Dashboard.pdf
+**Dashboard Link:** https://drive.google.com/file/d/1TpX9ahLgRV_sPgohh1M4RTRnHHkqJ_eO/view?usp=drive_link
+
+**Report Link:** https://drive.google.com/file/d/1XIBo1USupGfkF-bi23u3F28sigaERg4s/view?usp=drive_link
 
 The project generates comprehensive insights through:
 
