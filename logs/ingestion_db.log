@@ -298,3 +298,9 @@ Total Time Taken: 7.118267631530761 minutes
 4       0.983556              1.396897  
 2025-07-31 10:32:03,435 - INFO - Ingesting data.....
 2025-07-31 10:32:03,495 - INFO - Completed
+2025-08-02 18:03:27,107 - INFO - --------------Ingestion Complete--------------
+2025-08-02 18:03:27,107 - INFO - 
+Total Time Taken: 0.0 minutes
+2025-08-02 19:50:32,919 - INFO - --------------Ingestion Complete--------------
+2025-08-02 19:50:32,927 - INFO - 
+Total Time Taken: 0.0 minutes
